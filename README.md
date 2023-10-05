@@ -1,4 +1,4 @@
-![Black Elegant Personal LinkedIn Banner (1)](https://github.com/SunilSurendran1906/SunilSurendran1906/assets/133184647/c8eb5cd3-686b-4cc4-8bdb-e37fcf3b9717)
+![Black Elegant Personal LinkedIn Banner (2)](https://github.com/SunilSurendran1906/SunilSurendran1906/assets/133184647/a33bd8de-aa5b-459c-9edc-adb91e39300a)
 
 <h1 align="center">Hi 👋, I'm Sunil Surenderan</h1>
 <h3 align="center">A passionate full stack developer from India</h3> <img  align="right" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding">
